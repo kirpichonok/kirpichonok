@@ -1,16 +1,19 @@
-### Hi there 👋
+# Ivan Kirpichonok | iOS Developer
 
-<!--
-**kirpichonok/kirpichonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contacts
+[Telegram](https://t.me/kirpichonak)
+[Email](ivankirpichonok@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kirpichonok)
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=kirpichonok&theme=tokyonight&hide_border=false)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=kirpichonok&icon=1&color=9)](https://visitcount.itsvg.in)
+
+# My projects
+[WOOF App](https://github.com/ios-course/ironfoudation-team-project)
+
+[Simple Network Service (Swift package)](https://github.com/ios-course/simple-network-service)
+
+
